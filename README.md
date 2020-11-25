@@ -20,5 +20,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <a href="https://github.com/xsahil03x">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true&theme=light" alt="Sahil's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true&theme=light&count_private=true" alt="Sahil's github stats"/>
 </a>
