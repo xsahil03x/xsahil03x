@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsahil03x&label=Views&color=blue&style=plastic" alt="xsahil03x" /> </p>
 
 - 🔭 I’m currently working at [Stream](https://getstream.io/)
-- 🌱 I’m currently learning more about [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
-- 🤔 I’m looking for help in maintaining [Giffy Dialog](https://www.github.com/xsahil03x/giffy_dialog) & [Fancy OnBoarding](https://www.github.com/xsahil03x/fancy_on_boarding).
-- 💬 Ask me about Android and Flutter related stuff.
+- 🌱 I’m currently learning more about [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- 🤔 I’m looking for help in maintaining [Giffy Dialog](https://www.github.com/xsahil03x/giffy_dialog) & [Fancy OnBoarding](https://www.github.com/xsahil03x/fancy_on_boarding)
+- 💬 Ask me about Android and Flutter related stuff
 - 📫 How to reach me: [Twitter - @xsahil03x](https://www.twitter.com/xsahil03x), [LinkedIn - @xsahil03x](https://www.linkedin.com/in/xsahil03x/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If I am not coding then I am probably playing games with my friends.
+- ⚡ Fun fact: If I am not coding then I am probably playing games with my friends
 
 **Languages and Tools:**  
 
