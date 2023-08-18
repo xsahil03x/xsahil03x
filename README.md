@@ -19,6 +19,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-<a href="https://github.com/xsahil03x">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true&theme=light&count_private=true" alt="Sahil's github stats"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true" />
+</picture>
